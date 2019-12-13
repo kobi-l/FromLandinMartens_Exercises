@@ -6,11 +6,13 @@ namespace AnimalShelter.Tests
     public class ClassNameUnderTest_Tests
     {
         [TestMethod]
-        public void MethodName_ShouldDoSomething_WhenCondition()
+        public void CreateAnAnimal_Expected_NewAnimalCreate()
         {
             //Arrange [Variables, object creation and other set up]
+            //var animal = new Animal(AnimalType.Dog);
 
             //Act [Method / Function invoke with passed in data]
+            //var type = animal.AnimalType;
 
             //Assert [Validate that something should have happened]
 
